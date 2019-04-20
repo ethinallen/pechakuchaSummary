@@ -1,8 +1,8 @@
 # pechakuchaSummary
 
 ## 2 Kinds of Systems: How does a 30, 30, 40 split work
-  - Presidential 
-  - Traditional Parliamentary
+  - Presidential + Issues
+  - Traditional Parliamentary + Issues
   
 ## Why does Presidential Lend itself to polar politics?
 
